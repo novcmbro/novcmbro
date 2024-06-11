@@ -29,10 +29,10 @@
 
   ### My stats
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=novcmbro&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
+    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=novcmbro&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
   </picture>
   <picture>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novcmbro&layout=compact&title_color=c770f0&text_color=ffffff&bg_color=0a0e12&border_color=1C1E26" alt="Most Used Languages Stats">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novcmbro&layout=compact&title_color=c770f0&text_color=ffffff&bg_color=0a0e12&border_color=1C1E26" alt="Most Used Languages Stats">
   </picture>
 
   <br>
