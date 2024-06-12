@@ -25,18 +25,16 @@
   [![Styled Components](https://img.shields.io/badge/styled_components-0a0e12.svg?style=for-the-badge&logo=styled-components&logoColor=c770f0)](#)
   [![Figma](https://img.shields.io/badge/figma-0a0e12.svg?style=for-the-badge&logo=figma&logoColor=c770f0)](#)
 
-  <br>
-
   ### My stats
   <picture>
-    <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=novcmbro&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D" alt="Streak Stats">
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=novcmbro&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=novcmbro&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D" alt="Hi! I'm Novembro" alt="Streak Stats" height="160px">
   </picture>
   <picture>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novcmbro&layout=compact&title_color=c770f0&text_color=ffffff&bg_color=0a0e12&border_color=1C1E26" alt="Most Used Languages Stats">
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=novcmbro&layout=compact&title_color=c770f0&text_color=ffffff&bg_color=0a0e12&border_color=1C1E26" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novcmbro&layout=compact&title_color=c770f0&text_color=ffffff&bg_color=0a0e12&border_color=1C1E26" alt="Most Used Languages Stats" alt="Streak Stats" height="160px">
   </picture>
-
-  <br>
-
+  
   ### Contact me
   [![Gmail](https://img.shields.io/badge/gmail-c770f0.svg?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:novcmbro@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/linkedin-c770f0.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/novcmbro/)
