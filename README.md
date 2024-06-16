@@ -22,7 +22,9 @@
   [![SASS](https://img.shields.io/badge/sass-0a0e12.svg?style=for-the-badge&logo=sass&logoColor=c770f0)](#)
   [![TailwindCSS](https://img.shields.io/badge/tailwind_css-0a0e12.svg?style=for-the-badge&logo=tailwind-css&logoColor=c770f0)](#)
   [![Material UI](https://img.shields.io/badge/material_ui-0a0e12.svg?style=for-the-badge&logo=mui&logoColor=c770f0)](#)
-  [![Styled Components](https://img.shields.io/badge/styled_components-0a0e12.svg?style=for-the-badge&logo=styled-components&logoColor=c770f0)](#)
+  [![Firebase](https://img.shields.io/badge/firebase-0a0e12.svg?style=for-the-badge&logo=firebase&logoColor=c770f0)](#)
+  [![Git](https://img.shields.io/badge/git-0a0e12.svg?style=for-the-badge&logo=git&logoColor=c770f0)](#)
+  [![GitHub](https://img.shields.io/badge/github-0a0e12.svg?style=for-the-badge&logo=github&logoColor=c770f0)](#)
   [![Figma](https://img.shields.io/badge/figma-0a0e12.svg?style=for-the-badge&logo=figma&logoColor=c770f0)](#)
 
   ### My stats
