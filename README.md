@@ -6,7 +6,7 @@
   <br>
   <picture>
     <source srcset="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=435&height=20&lines=Front+End+Web+Developer" media="(prefers-color-scheme: dark)">
-    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=20&duration=1&color=0a0e12&center=true&vCenter=true&repeat=false&random=false&width=435&height=20&lines=Front+End+Web+Developer" alt="Front End Web Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=20&duration=1&color=0a0e12&center=true&vCenter=true&repeat=false&random=false&width=435&height=20&lines=Front+End+Developer+|+Web+Designer" alt="Front End Developer | Web Designer">
   </picture>
 
   ---
