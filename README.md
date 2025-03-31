@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi! I'm Novembro $${\color{8d192b}★}$$
+  # Hi! I'm Novembro
   
   ### My stacks
   [![JavaScript](https://img.shields.io/badge/javascript-e9d8d4.svg?style=for-the-badge&logo=javascript&logoColor=8d192b)](#)
@@ -28,6 +28,9 @@
   
   ### Contact me
   [![Gmail](https://img.shields.io/badge/gmail-8d192b.svg?style=for-the-badge&logo=gmail&logoColor=e9d8d4)](mailto:novcmbro@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-8d192b.svg?style=for-the-badge&logo=linkedin&logoColor=e9d8d4)](https://www.linkedin.com/in/novcmbro/)
+
+  ---
   
   ### Thank you for visiting!
 </div>
